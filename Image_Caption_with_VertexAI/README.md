@@ -10,11 +10,17 @@ Before running the scripts, ensure you have the following set up:
 1. **Google Cloud Platform Service Account Credentials**:
    - Obtain a JSON key file (`GCP_Gemini_Pro_Vision.json`) for authentication with Google Cloud Platform (GCP).
 
-2. **Python Dependencies**:
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Ajishpradeep/Utills.git
+   cd Image_Caption_with_VertexAI
+   ```
+3. **Python Dependencies**:
    - Ensure Python 3.10 or higher is installed.
    - vertexai: Python SDK for Google Cloud Vertex AI.
    - PIL: Python Imaging Library for image processing.
    - Other standard Python libraries (json, os) are typically included in Python distributions.
+
 
 ## Setup
 
